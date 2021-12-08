@@ -1,0 +1,17 @@
+DATA TYPES : basic bulding blocks in the code
+---------------------------------------------------------------------------
+NAME                          : TYPE              :        DESCRIPTION
+Integers                      : int               : whole numbers such as 2, 200, 2000 (all posive and negitive numbers without a decimal point is a integer value)
+Floating point                : float             : Numbers with a decimal point ex 2.3 , 4.56, 88.99.
+Strings                       : str               : ordered sequence charecters ex : "Hello", #sunny#, "5000", #!§$%&/#.
+
+
+DATA STRUCTURES : sequence and mapping
+---------------------------------------------------------------------------
+NAME                  : TYPE        :  DESCRIPTION
+
+Lists                 : list        :  ordered sequence objects : [10, "Hello", 200.3]
+Dictionaries          : dict        :  unorderd key value pairs : { "mykey" : "value" , "name" : "Aishwarya"}
+Tuples                : tup         :  orderd immmutable sequence of objects : (10, "hello", 200.3)
+Sets                  : set         :  unorderd collection of unique objects : {"a", "b"}
+Booleans              : bool        :  logical value indicateing True or False 
